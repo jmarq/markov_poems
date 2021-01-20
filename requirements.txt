@@ -1,0 +1,4 @@
+cmudict==0.4.5
+markovify==0.8.3
+pronouncing==0.2.0
+Unidecode==1.1.2
